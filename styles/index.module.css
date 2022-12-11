@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    gap: 15px;
+    background: orange;
+    padding: 15px 30px ;
+  }
+  .navbar a{
+      text-decoration: none;
+  }
+  .link{
+      text-decoration: none;
+      color: white;
+      font-size: 20px
+  }
